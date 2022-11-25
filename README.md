@@ -2,7 +2,7 @@
 
 O objetivo desse desafio é ser algo rápido para exemplificar alguns desafios do dia a dia de quem trabalha com dados. Queremos com esse desafio avaliar o seu conhecimento básico em SQL, banco de dados e entender mais quais as boas práticas você segue para construção de código.
 
-Importânte resaltar que esse desafio é válido para analistas, engenheiros e cientistas de dados. Acreditamos que mesmo tento diferença entre as áreas, o SQL deve ser um pilar forte para todos.
+Importânte ressaltar que esse desafio é válido para analistas, engenheiros e cientistas de dados. Acreditamos que mesmo tendo diferenças entre as áreas, o SQL deve ser um pilar forte para todos.
 
 Recomendamos utilizar o banco de dados PostgreSQL. Os dados e o desafio foram montados pensando nesse banco.
 
