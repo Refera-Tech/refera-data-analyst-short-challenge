@@ -22,7 +22,8 @@ Recomendamos utilizar a restauração com .tar, facilitando assim a construção
 7. Não é necessário submeter os dados de retorno das respostas, queremos ver os códigos SQL
 8. Coloque cada pergunta em um arquivo .sql seguindo o seguinte padrão: 
 ```[n]_answer_[first_name]_[last_name].sql``` (ex: 1_answer_neymar_junior.sql)
-9. Coloque todas as respostas em um .zip no formato ```desafio_sql_[first_name]_[last_name].zip``` e anexe como resposta do e-mail do desafio ao finalizar.
+9. Faça upload dos arquivos em um repositório seu no github, gitlab, etc... **Não faça um fork do repositório!**
+10. Envio o link do repositório como resposta do e-mail do desafio ao finalizar.
 
 ## Pergunta 1:
 Qual foi os top 2 filmes mais alugados de todos os tempos?
