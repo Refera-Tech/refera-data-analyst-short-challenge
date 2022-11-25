@@ -14,8 +14,6 @@ Recomendamos utilizar o banco de dados PostgreSQL. Os dados e o desafio foram mo
 
 [Modelo de dados](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
-Recomendamos utilizar a restauração com .tar, facilitando assim a construção do banco.
-
 ## Pontos importantes:
 1. Todo o desafio precisa ser feito em SQL
 2. O desafio tem prazo máximo de uma semana
