@@ -6,9 +6,11 @@ Importânte ressaltar que esse desafio é válido para analistas, engenheiros e 
 
 Recomendamos utilizar o banco de dados PostgreSQL. Os dados e o desafio foram montados pensando nesse banco.
 
-## Os dados podem ser carregados de duas formas:
-* csv: [Link](https://drive.google.com/file/d/1NbCcMPwUBAXiC8rIxz_oxFtMHE4hR39L/view?usp=sharing)
-* .tar: [Link](https://drive.google.com/file/d/1MjoGGK9WUek_QEwEqBFPjAYZNcCe7cGn/view?usp=sharing)
+## Os dados podem ser carregados de três formas diferentes(em ordem do mais recomendado pro menos recomendado):
+1. Usando docker. Rodando: ```docker compose up``` [Link](https://drive.google.com/file/d/1O3OS52DV2J2KaIJEgeQi-pXsfXuKkZXS/view?usp=sharing) 
+2. .tar: [Link](https://drive.google.com/file/d/1MjoGGK9WUek_QEwEqBFPjAYZNcCe7cGn/view?usp=sharing)
+3. csv: [Link](https://drive.google.com/file/d/1NbCcMPwUBAXiC8rIxz_oxFtMHE4hR39L/view?usp=sharing)
+
 
 [Modelo de dados](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
