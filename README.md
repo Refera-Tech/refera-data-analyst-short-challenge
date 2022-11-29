@@ -25,7 +25,7 @@ Recomendamos utilizar o banco de dados PostgreSQL. Os dados e o desafio foram mo
 8. Coloque cada pergunta em um arquivo .sql seguindo o seguinte padrão: 
 ```[n]_answer_[first_name]_[last_name].sql``` (ex: 1_answer_neymar_junior.sql)
 9. Faça upload dos arquivos em um repositório seu no github, gitlab, etc... **Não faça um fork do repositório!**
-10. Envio o link do repositório como resposta do e-mail do desafio ao finalizar.
+10. Envio o link do repositório como resposta do desafio ao finalizar.
 
 ## Pergunta 1:
 Qual foi os top 2 filmes mais alugados de todos os tempos?
